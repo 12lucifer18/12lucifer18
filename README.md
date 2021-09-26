@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align='center'> 
+ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! <img src="https://raw.githubusercontent.com/10adnan75/10adnan75/master/assets/hi.gif" width="33px">
+  𝐼 𝒶𝓂   <a href="https://10adnan75.github.io/" target="_blank">𝒜𝒻𝒶𝓆𝓊𝑒 𝐼𝓃𝒶𝓂𝒹𝒶𝓇</a>
+</h1>
 
-<!--
-**12lucifer18/12lucifer18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+ <a href="https://www.youtube.com/watch?v=LGpWMbB9u6Q" target="_blank">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/watch?v=LGpWMbB9u6Q" target="_blank">
+ <img src="https://img.shields.io/badge/hackerrank-%07190B.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/watch?v=LGpWMbB9u6Q" target="_blank">
+ <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=10adnan75&" alt="10adnan75"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
