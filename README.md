@@ -13,6 +13,6 @@
 </p>
 
 <p align='center'>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=10adnan75&" alt="10adnan75"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=12lucifer18&" alt="12lucifer18"/>
 </p>
 
