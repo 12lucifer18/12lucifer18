@@ -1,5 +1,5 @@
 <h1 align='center'> 
- 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! <img src="https://raw.githubusercontent.com/12lucifer18/12lucifer18/master/assets/hi.gif" width="33px">
+ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮! <img src="https://raw.githubusercontent.com/10adnan75/10adnan75/master/assets/hi.gif" width="33px">
   𝐼 𝒶𝓂   <a href="https://12lucifer18.github.io/" target="_blank">𝒜𝒻𝒶𝓆𝓊𝑒 𝐼𝓃𝒶𝓂𝒹𝒶𝓇</a>
 </h1>
 
