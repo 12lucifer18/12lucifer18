@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/watch?v=LGpWMbB9u6Q" target="_blank">
  <img src="https://img.shields.io/badge/hackerrank-%07190B.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;
- <a href="https://www.youtube.com/watch?v=LGpWMbB9u6Q" target="_blank">
+ <a href="https://youtu.be/iik25wqIuFo" target="_blank">
  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
